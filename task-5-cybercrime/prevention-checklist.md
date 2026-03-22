@@ -1,4 +1,4 @@
-# 🛡️ Stay Safe Online: Checklist for College Students in India
+# Stay Safe Online: Checklist for College Students in India
 
 A practical guide to protect yourself from cyber threats, scams, and online fraud.  
 
