@@ -31,6 +31,6 @@ A practical guide to protect yourself from cyber threats, scams, and online frau
 
 ---
 
-## ✅ Key Reminder
+## REMINDER
 
 Always stay alert online. Protect your accounts, verify unknown requests, and report suspicious activity immediately. Prevention is the best defense against cybercrime.
