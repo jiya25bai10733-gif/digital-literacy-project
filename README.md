@@ -3,8 +3,7 @@
 ## 👩‍💻 Student Details
 **Name:** Jiya Kalra  
 **Role:** Student Digital Ambassador  
-**Registration Number:** (Add your Reg No. here)  
-
+**Registration Number:** 25BAI10733
 ---
 
 ## 📌 Project Overview
@@ -52,16 +51,19 @@ The project is organised into five distinct tasks, each addressing a crucial asp
 ---
 
 ### 💻 Task 3: Coding & Collaboration Platforms
-# digital-literacy-project
+
+---
 
 ## Digital Literacy Awareness Quiz
 [Click here to test your digital awareness](https://forms.gle/DTMn4mNjFEVHGrZbA)
+
+---
 
 - Solved beginner problem on HackerRank  
 - Learned basic Python (input, output, functions)  
 - Created a Google Form quiz  
 - Linked responses to Google Sheets  
-
+  
 **Learning Outcome:**
 - Improved coding basics  
 - Learned data collection and collaboration tools  
