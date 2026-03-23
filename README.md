@@ -1,9 +1,9 @@
 # 📘 Digital Literacy Project
 
-## 👩‍💻 Student Details
-**Name:** Jiya Kalra  
-**Role:** Student Digital Ambassador  
-**Registration Number:** 25BAI10733
+## 👩‍💻 Student Details 
+Name : Jiya Kalra
+Registration number: 25BAI10733
+
 ---
 
 ## 📌 Project Overview
@@ -139,8 +139,3 @@ It also highlighted the importance of responsible behaviour in digital spaces an
 - https://forms.google.com  
 - https://cybercrime.gov.in  
 - Cyber Crime Helpline: **1930**  
-
----
-
-## 📜 License
-This project is created for educational purposes.
