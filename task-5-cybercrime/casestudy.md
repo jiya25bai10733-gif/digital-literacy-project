@@ -99,5 +99,5 @@ Staying alert and cautious can significantly reduce the risk of falling victim t
 
 1. Times of India. “Malicious e-challan app swindles 10.66L from 74-year-old.” [Link](https://timesofindia.indiatimes.com/city/rajkot/malicious-e-challan-app-swindles-10-66l-from-74-year-old/articleshow/129723918.cms?utm_source=chatgpt.com)
 
-## ✅ Conclusion
+##  Conclusion
 UPI fraud is increasing due to the growing use of digital payments. It mainly happens because of **lack of awareness and trust in unknown sources**. Staying alert and never sharing PINs or approving unknown requests can help prevent such crimes.
