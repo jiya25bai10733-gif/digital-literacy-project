@@ -1,8 +1,8 @@
 # 📘 Digital Literacy Project
 
 ## 👩‍💻 Student Details 
-Name : Jiya Kalra
-Registration number: 25BAI10733
+- Name : Jiya Kalra
+- Registration number: 25BAI10733
 
 ---
 
