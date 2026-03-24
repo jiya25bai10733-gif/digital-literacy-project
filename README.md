@@ -5,7 +5,7 @@
 ## 👩‍💻 Student Details 
 - Name : Jiya Kalra
 - Registration number: 25BAI10733
-- CSE [Aiml] 1rst year
+- CSE [Aiml] 1st year
 
 ## 📌 Project Overview
 This project focuses on building a **Digital Literacy Portfolio** to develop essential skills required in today’s digital world. It covers creating a professional online presence, understanding digital tools, maintaining proper communication, and ensuring cyber safety.  
