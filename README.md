@@ -102,15 +102,22 @@ The project is organised into five distinct tasks, each addressing a crucial asp
 
 ---
 
-## 🚀 Tools & Platforms Used
-- Prezi  
-- GitHub  
-- LinkedIn  
-- ResearchGate  
-- HackerRank  
-- Google Forms  
-- Google Sheets  
+## ## 🛠️ Tools & Platforms Used
 
+The following tools and platforms were used throughout the project to complete various tasks and enhance digital literacy skills:
+
+| Tool / Platform | Purpose | How It Was Used in Project |
+|----------------|--------|----------------------------|
+| [Prezi](https://prezi.com) | Presentation & Design | Created digital literacy infographic |
+| [GitHub](https://github.com) | Project Hosting & Version Control | Hosted repository and managed project files |
+| [LinkedIn](https://linkedin.com) | Professional Networking | Built professional profile for career growth |
+| [ResearchGate](https://www.researchgate.net) | Academic Learning | Explored research content and academic resources |
+| [HackerRank](https://www.hackerrank.com) | Coding Practice | Solved beginner problem to understand programming basics |
+| [Google Forms](https://forms.google.com) | Data Collection | Created digital literacy awareness quiz |
+| [Google Sheets](https://sheets.google.com) | Data Analysis | Collected and viewed quiz responses |
+| [WhatsApp](https://www.whatsapp.com) | Communication | Used for group communication (case study example) |
+| [Cyber Crime Portal](https://cybercrime.gov.in) | Reporting Cybercrime | Referenced for reporting online fraud cases |
+| Helpline 1930 | Emergency Support | Included as cybercrime reporting contact |
 ---
 
 ## 📈 Future Plan
@@ -139,3 +146,13 @@ It also highlighted the importance of responsible behaviour in digital spaces an
 - https://forms.google.com  
 - https://cybercrime.gov.in  
 - Cyber Crime Helpline: **1930**  
+
+---
+
+## Student Declaration
+
+I hereby declare that this Digital Literacy Project is my original work. All tasks, write-ups, and materials included in this repository have been completed by me.  
+
+Any external resources used have been referred to only for understanding purposes and are properly acknowledged where applicable. This submission complies with the academic integrity guidelines of the course.
+
+---
